@@ -1,0 +1,4 @@
+Data:1 < ADDXPR ONLY_ADD_IF_NEW "osekTask_RunningTask"
+Data:1 < ADDXPR ONLY_ADD_IF_NEW "OSEK_TASK_IDLE_ID"
+Data:1 < ADDXPR ONLY_ADD_IF_NEW "pc"
+Data:2 < ADDXPR ONLY_ADD_IF_NEW "osekConfig_MsgTable"
