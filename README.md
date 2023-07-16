@@ -1,3 +1,3 @@
 # UESTC
 
-test
+courses
